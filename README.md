@@ -1,2 +1,3 @@
-# henrique-moitinho
-processo seletivo
+# Projeto Vinyl&Sound Henrique Moitinho
+O projeto Vinyl&Sound Landing Page é uma página de apresentação fictícia desenvolvida para a loja Vinyl&Sound, especializada em discos de vinil e acessórios. A landing page foi criada com foco em responsividade e experiência do usuário, utilizando HTML, CSS e JavaScript. Entre os recursos principais estão um carrossel automático de imagens, seções com informações sobre a loja e a cultura do vinil, avaliações de clientes e um catálogo de produtos com preços. O site possui uma navegação fluida por meio de um menu fixo com links âncora, e uma estética visual retrô-moderna que remete à vibe nostálgica do vinil. É possível visualizar os produtos e entrar em contato via e-mail ou telefone fictício, simulando uma experiência real de loja online.
+![image](https://github.com/user-attachments/assets/34a44018-867a-4593-8f35-f88d3455944b)
